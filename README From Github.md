@@ -24,7 +24,7 @@ Getting started is simple!  To run this sample you will need:
 
 From your shell or command line:
 
-`git clone http://git.avepoint.net/chengcui/OpenID-Connect-Azure-MVC.git`
+`git clone https://github.com/cuicheng11165/OpenID-Connect-Azure-MVC.git`
 
 ### Step 2:  Register the sample with your Azure Active Directory tenant
 
